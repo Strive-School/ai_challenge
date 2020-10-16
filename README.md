@@ -2,11 +2,9 @@
 
 Dear Applicant,
 
-Congrats on making it this far! As a next step,  we would like to invite you to answer some technical questions before the interview to make sure that you meet the technical requirements for the course. Having candidates who meet these criteria is essential for us to deliver on the promise of helping you get a technical job in the AI Field after the program finishes.
+Congrats on making it this far! At Strive School we believe in giving everyone an equal chance to succeed.And yet, it is entirely possible that you find some of the notebook exercises confusing or that you don't know how to code in a **Jupyter notebook or even Python**. Our goal is to **select individuals with high potential** to further empower your knowledge and likelihood of getting a job. Note that this doesn't mean high potential individuals who already know how to do the exercises. Our hopes here are that if you are motivated enough, you also go through the process of learning how to answer such questions even if you did not know python beforehand. We want to develop exceptional data scientists from unconventional places and backgrounds.
 
-At Strive School we believe in giving everyone an equal chance to succeed.And yet, it is entirely possible that you find some of the notebook exercises confusing or that you don't know how to code in a **Jupyter notebook or even Python**. Our goal is to **select individuals with high potential** to further empower your knowledge and likelihood of getting a job. Note that this doesn't mean high potential individuals who already know how to do the exercises. Our hopes here are that if you are motivated enough, you also go through the process of learning how to answer such questions even if you did not know python beforehand. We want to develop exceptional data scientists from unconventional places and backgrounds.
-
-# What you need in order to complete the exercises
+# What you need to know in order to complete the exercises
 
 Here are the most fundamental resources that you will need to learn Python, statistics and complete our Jupyter notebook:
 - [Python Kaggle Course](https://www.kaggle.com/learn/python)
