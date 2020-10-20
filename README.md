@@ -14,7 +14,7 @@ Here are the most fundamental resources that you will need to learn Python, stat
 - Or, if you want to code in Python, [How to convert a Jupyter Notebook into a .py file](https://stackoverflow.com/questions/37797709/convert-json-ipython-notebook-ipynb-to-py-file)
 
 **Difference between a Jupyter Notebook and Python**
-While Python is a programming language that you may already be familiar with, Jupyter notebook provides us for a sequential way of executing cells (containing python code), which is quite useful for Machine Learning since it is normally a repeatable process.
+While Python is a programming language that you may already be familiar with, Jupyter notebook provides us for a sequential way of executing cells (containing python code), which is quite useful for Machine Learning since it is normally a process that is very similar from one task to another and always done in the same order.
 
 # Delivery
 - 01_Python_test.ipynb
