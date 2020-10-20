@@ -19,6 +19,7 @@ While Python is a programming language that you may already be familiar with, Ju
 # Delivery
 - 01_Python_test.ipynb
 - 02_Probability_and_statistics_test.ipynb
+- Optional challenge: 03_Turning_Gauss_test (Instructions over email)
 
 Send it to jan@strive.school with the title: **My python assessment**.
 
