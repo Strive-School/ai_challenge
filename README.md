@@ -25,7 +25,7 @@ Send it to jan@strive.school with the title: **My python assessment**.
 
 Best of luck!
 
-![](hunger.gif)
+![](images/hunger.gif)
 
 **Further questions?**
 Send us an email at jan@strive.school
